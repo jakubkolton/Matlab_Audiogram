@@ -7,11 +7,11 @@ coef_audiogram = [1];
     end
 
     
-% NAPISZ KALIBRACJE OD NOWA NP. Z UZYCIEM GENERATORA
+
 %kalibracja
             fs=48000; % f probkowania 
             f=1000; % f generowanego dzwieku
-            t=0:1/fs:1; % probki czasowe 1 sekundy
+            t=0:1/fs:1; % probki czasowe
             A=0.01; % domyslnie bylo 1
             y=A*sin(2*pi*f*t);  % sygnal harmoniczny
             Py=10*log10(sum(y.^2)); % moc akustyczna
@@ -39,7 +39,7 @@ coef_audiogram = [1];
             fs = 48000; % czestotliwosc probkowania [Hz]
             t = 0:1/fs:1; % probki czasowe
 %             gain = 0; % wzmocnienie dB; Do wzmacniania kolejnych 
-            coef = coef_audiogram(1); % wspolczynnik (zwiekszajacy +dB)
+%             coef = coef_audiogram(1); % wspolczynnik (zwiekszajacy +dB)
             y=coef*A*sin(2*pi*f*t);  % sygnal harmoniczny
             
             
