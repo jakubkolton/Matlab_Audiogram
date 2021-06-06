@@ -76,7 +76,10 @@
 %               otherwise
 %             end
 %             
-%             
+% 
+
+
+
         % TEST - Wyznaczanie wyniku audiogramu
         f_audiogram = [125 500 1000 2000 3000 4000 6000 8000 100000]; % 9 czestotliwosci audiogramu
         coef_audiogram = [1]; % wspolczynniki (wzmacniajace n*10dB); od 0dB do +140dB; Beda wypelnione po starcie programu
