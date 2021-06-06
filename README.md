@@ -1,11 +1,13 @@
 # Matlab_Audiogram
 
-- Kalibracja prawego ucha (edytowac fukcje) i lewego tez - bo dzwieki ida na dwa kanaly
+- + Kalibracja prawego ucha (edytowac funkcje) i lewego tez - bo dzwieki ida na dwa kanaly
 - Wyswietlanie zdjec i wynikow artystow
 - Legenda i ladniejsze wyskalowanie wykresu
 - Logika dezaktywacji przyciskow podczas kalibracji, testu itd.
-- Generacja szumu w drugim kanale
+- + Generacja szumu w drugim kanale
 - Ostateczna wersja layoutu
 - Zerknac na optymalizacje kodu
+
 - Dodac jakis sztywny offset do kazdego pomiaru (np. 10 dB)
 - Zweryfikowac ile czasu maja trwac dzwieki i czy granice uszkodzen sa =80 czy >80 dB
+- Jaka ma byc max. glosnosc szumu? Rowna z max. amplituda sinusa? Moze stala? Troche glupio, ze slychac ten szum i wiadomo, ze idzie sinus na drugi kanal xD
