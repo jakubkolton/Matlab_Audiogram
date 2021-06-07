@@ -8,6 +8,10 @@
 - Ostateczna wersja layoutu
 - Zerknac na optymalizacje kodu
 + Wyswietlanie zdjec i wynikow artystow, przerobienie programu, aby ich obslugiwal kompletnie
+- Komercjalizacja - link do zaprzyjaznionej przychodni i sklepu z aparatami sluchowymi
+- Co w przypadku powtorzenia testu? Wymyslic jak "zniknac" wykresy (axes znika, ploty zostaja - chyba dlatego, ze nie sa globalne)
+- Przywrocic poprawne dlugosci petli podczas testu
+- Krotka instrukcja obslugi programu, zeby klient nie byl pogubiony (on nie zna procedury)
 
 DO KONSULTACJI Z ITK:
 - Dodac jakis sztywny offset do kazdego pomiaru (np. 10 dB)
