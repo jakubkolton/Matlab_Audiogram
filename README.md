@@ -21,9 +21,9 @@ Aplikacja generuje dźwięki potencjalnie niebezpieczne dla ucha ludzkiego. Zale
 - Sekcja pomocy dokładnie tłumacząca całą procedurę.
 
 ### Zrzuty ekranu z działania aplikacji:
-![](Screenshots/1.png?raw=true "Okno początkowe")
-![](Screenshots/2.png?raw=true "Wynik testu")
-![](Screenshots/3.png?raw=true "Porównanie z celebrytami")
+<img src="https://github.com/jakubkolton/Matlab_Audiogram/blob/Release-v1.1/Screenshots/1.PNG" width="501" height="421" />
+<img src="https://github.com/jakubkolton/Matlab_Audiogram/blob/Release-v1.1/Screenshots/2.PNG" width="501" height="421" />
+<img src="https://github.com/jakubkolton/Matlab_Audiogram/blob/Release-v1.1/Screenshots/3.PNG" width="501" height="421" />
 
 ### Wymagania:
 - Do uruchomienia samej aplikacji bez posiadania Matlaba (plik "Turbo Audiogram.exe:):
